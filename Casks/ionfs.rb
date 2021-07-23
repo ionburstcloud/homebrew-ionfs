@@ -10,5 +10,5 @@ cask "ionfs" do
   
     depends_on macos: ">= :high_sierra"
 
-    binary: "ionfs"
+    binary "ionfs"
   end
