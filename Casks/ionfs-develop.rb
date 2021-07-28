@@ -1,4 +1,4 @@
-cask "ionfs-dev" do
+cask "ionfs-develop" do
     version "0.2.4-develop.1"
     sha256 "469ce010e05be9cddcaad6e448eab812b0120c09c04a49b64c437275ac2a7e80"
   
