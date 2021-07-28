@@ -1,6 +1,6 @@
 cask "ionfs" do
-    version "0.2.3"
-    sha256 "c4328b13bc5f66bf320f61f2b81bb648267106d1f968d917a3e330b50f1cea4e"
+    version "0.2.4"
+    sha256 "8ff37747ae6034fdb720c90e88144a35c9528295a3e16cf942d4a57ce2763e29"
   
     url "https://ionfs.s3.fr-par.scw.cloud/ionfs-#{version}-mac.tar.bz2",
         verified: "github.com/ionburstcloud/ionfs"
