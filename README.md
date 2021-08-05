@@ -1,8 +1,8 @@
 # IonFS Homebrew
 
-## How do I install these formulae?
+## How do I install this cask?
 
-`brew install ionburst/ionfs/ionfs`
+`brew install ionburstcloud/ionfs/ionfs`
 
 Or `brew tap ionburstcloud/ionfs` and then `brew install ionfs`.
 
