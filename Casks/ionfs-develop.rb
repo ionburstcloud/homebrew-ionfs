@@ -1,5 +1,5 @@
 cask "ionfs-develop" do
-    version "0.2.5-develop.1"
+    version "0.3.0-develop.1"
   
   if Hardware::CPU.intel?
     sha256 "c33e948ce8380984205c9fef552b3c3888b8189b4be710d476937babe12992e0"
