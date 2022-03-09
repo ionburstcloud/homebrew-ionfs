@@ -1,11 +1,11 @@
 cask "ionfs-develop" do
-    version "0.3.0-develop.2"
+    version "0.3.0-develop.3"
   
   if Hardware::CPU.intel?
-    sha256 "fcf7ed81ff69ffce8a55c402f1106dbf65be22630d7e00c450b7029d52e95ef1"
+    sha256 "cb8450f03a3885db3486742b681b43c5cd9582cbc836f68dfa396be93b63c399"
     url "https://ionfs.s3.fr-par.scw.cloud/develop/ionfs-#{version}-mac.tar.bz2"
   else
-    sha256 "9120ea6fb9d83b0ec677f33007839ef12d5cb2f667fc1b669adde502eb373756"
+    sha256 "74ef2dfd8839c3dca8135d4a70134ecf98b5ebf0a5795b3d9e838ad8236cacf7"
     url "https://ionfs.s3.fr-par.scw.cloud/develop/ionfs-#{version}-mac-arm64.tar.bz2"
   end   
     name "IonFS CLI (develop branch)"
